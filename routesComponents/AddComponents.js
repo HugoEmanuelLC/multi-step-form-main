@@ -1,5 +1,5 @@
 
-let AddComponents = $("main");
+let AddComponents = $("section");
 
 title = "C-Link ";
 
