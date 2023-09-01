@@ -1,0 +1,11 @@
+{
+  "name": "multi-step-form-main",
+  "version": "1.0.0",
+  "description": "exercice becode html/css ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hugo lc",
+  "license": "ISC"
+}
